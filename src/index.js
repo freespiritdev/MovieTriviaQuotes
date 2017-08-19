@@ -258,6 +258,54 @@ var questions = [
             "Fight Club",
             "The Green Mile"
         ]
+    },
+    {
+        "They may take our lives, but they'll never take our freedom!": [
+            "Braveheart",
+            "Gladiator",
+            "The Patriot",
+            "Repo Man"
+        ]
+    },
+    {
+        "If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you.": [
+            "Taken",
+            "Independence Day",
+            "Casino",
+            "Mrs. Doubtfire"
+        ]
+    },
+    {
+        "Get your stinking paws off me, you damned dirty ape!": [
+            "Planet of the Apes",
+            "King Kong",
+            "Dirty Harry",
+            "Chinatown"
+        ]
+    },
+    {
+        "I'm a reasonable guy. But, I've just experienced some very unreasonable things.": [
+            "Big Trouble in Little China",
+            "Escape from New York",
+            "Demolition Man",
+            "Commando"
+        ]
+    },
+    {
+        "If I'm back in a hour, call the president.":[
+            "Airforce One",
+            "Escape from LA",
+            "Rambo",
+            "Rocky"
+        ]
+    },
+    {
+        "I'm walking here! I'm walking here!": [
+            "Midnight Cowboy",
+            "Speed",
+            "Casino"
+            "I Am Legend"
+        ]
     }
 ];
 
