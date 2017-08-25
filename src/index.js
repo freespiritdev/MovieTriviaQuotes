@@ -306,7 +306,112 @@ var questions = [
             "Casino"
             "I Am Legend"
         ]
-    }
+    },
+    {
+        "What do you mean funny? Like a clown? Do I amuse you?! Huh??!!": [
+            "Goodfellas",
+            "The Godfather",
+            "Casino",
+            "Get Shorty"
+        ]
+    },
+    {
+        "I'll be back": [
+            "Terminator",
+            "Independence Day",
+            "The Departed",
+            "Castaway"
+        ]
+    },
+    {
+        "Come with me if you want to live!": [
+            "Terminator",
+            "Avatar",
+            "Commando",
+            "Total Recall"
+        ]
+    },
+    { 
+        "He'll find you that's what he does, That's all he does!": [
+            "Terminator",
+            "Twins",
+            "Terminator 2: Judgement Day",
+            "True Lies"
+        ]
+    },
+    { 
+        "Do you want to be a cop or only look like a cop?": [
+            "The Departed",
+            "Beverly Hills Cop 2",
+            "Police Academy",
+            "RoboCop"
+        ]
+    },
+    { 
+        "Dead or alive, you're coming with me!": [
+            "RoboCop",
+            "Die Hard",
+            "Dirty Harry",
+            "Fast & Furious"
+        ]
+    },
+    { 
+        "": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    { 
+        "": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    { 
+        "": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    { 
+        "": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    { 
+        "": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    { 
+        "": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    { 
+        "": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    }    
+
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
