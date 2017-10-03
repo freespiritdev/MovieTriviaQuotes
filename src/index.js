@@ -303,7 +303,7 @@ var questions = [
         "I'm walking here! I'm walking here!": [
             "Midnight Cowboy",
             "Speed",
-            "Casino"
+            "Casino",
             "I Am Legend"
         ]
     },
