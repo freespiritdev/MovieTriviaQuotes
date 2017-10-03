@@ -356,27 +356,27 @@ var questions = [
         ]
     },
     { 
-        "": [
-            "",
-            "",
-            "",
-            ""
+        "I don't want to be a product of my environment. I want my environment to be a product of me": [
+            "The Departed",
+            "Godfather",
+            "Legends",
+            "Iron Man"
         ]
     },
     { 
-        "": [
-            "",
-            "",
-            "",
-            ""
+        "I have had people walk out on me before, but not... when I was being so charming.": [
+            "Blade Runner",
+            "Tron",
+            "I Robot",
+            "Blade"
         ]
     },
     { 
-        "": [
-            "",
-            "",
-            "",
-            ""
+        "Wake up! Time to die!": [
+            "Blade Runner",
+            "Terminator",
+            "Independence Day",
+            "Die Hard"
         ]
     },
     { 
