@@ -380,37 +380,53 @@ var questions = [
         ]
     },
     { 
-        "": [
-            "",
-            "",
-            "",
-            ""
+        "Damn it man! I am a Doctor not a Physicist!": [
+            "Star Trek",
+            "Aliens",
+            "Star Wars",
+            "Starship Troopers"
         ]
     },
     { 
-        "": [
-            "",
-            "",
-            "",
-            ""
+        "I don't believe in no-win scenarios": [
+            "Star Trek",
+            "Total Recall",
+            "Super Troopers",
+            "Titanic"
         ]
     },
     { 
-        "": [
-            "",
-            "",
-            "",
-            ""
+        "This is for all you new people. I have only one rule. Everybody fights, no one quits. If you don't do your job, I'll kill you myself! Welcome to the Roughnecks!": [
+            "Star Troopers",
+            "Police Academy",
+            "Zero Dark Thirty",
+            "Only The Strong"
         ]
     },
     { 
-        "": [
-            "",
-            "",
-            "",
-            ""
+        "You're probably thinking, \"My boyfriend said this was a superhero movie but that guy in the suit just turned that other guy into a fucking kabab!\" Well, I may be super, but I'm no hero. And yeah, technically, this is a murder. But some of the best love stories start with a murder. And that's exactly what this is, a love story. And to tell it right... I gotta take you back to long before I squeezed this ass into red spandex.": [
+            "Deadpool",
+            "Superman",
+            "X-men",
+            "Green Lant"
         ]
-    }    
+    },
+    {
+         "Beware of the ground for which you stand / The floor is quicker than the sand.": [
+            "Jumanji",
+            "The Jungle Book",
+            "The Rundown",
+            "Commando"
+        ]
+    },
+    {
+         "I got a backpack on! You don't get in water with a backpack, everybody knows that.": [
+            "Jumanji: Welcome to the Jungle",
+            "The Rundown",
+            "Rio",
+            "What Dreams May Come"
+        ]
+    }        
 
 ];
 
