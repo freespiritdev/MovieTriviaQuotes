@@ -426,7 +426,23 @@ var questions = [
             "Rio",
             "What Dreams May Come"
         ]
-    }        
+    },
+    {
+         "Don't scare me like that, coloniser!": [
+            "Black Panther",
+            "Far and Away",
+            "The Departed",
+            "Tombstone"
+        ]
+    },
+    {
+         "What kind of a man does not believe in God?": [
+            "Gringo",
+            "Home Floats",
+            "Ghostbusters",
+            "Gifted"
+        ]
+    }
 
 ];
 
