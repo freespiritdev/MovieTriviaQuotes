@@ -442,8 +442,23 @@ var questions = [
             "Ghostbusters",
             "Gifted"
         ]
+    },
+    {
+         "One - don't you ever touch me again. Two - don't you ever touch me again.": [
+            "Pacific Rim",
+            "Rocky",
+            "Pacific Rim: Uprising",
+            "Guardians of the Galaxy"
+        ]
+    },
+    {
+         " He says, \"Welcome to the frickin' Guardians of the Galaxy.\" Only he didn't use \"frickin'.\" ": [
+            "Guardians of the Galaxy Vol 2",
+            "Galaxy Quest",
+            "Guardians of the Galaxy",
+            "Pacific Rim: Uprising"
+        ]
     }
-
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
