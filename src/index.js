@@ -32,7 +32,7 @@ var questions = [
             "Titanic",
             "Gladiator",
             "Batman",
-            "Spiderman"
+            "Spider-Man"
         ]
     },
     {
@@ -221,7 +221,7 @@ var questions = [
     },
     {
         "Remember, with great power. comes great responsibility.": [
-            "Spiderman",
+            "Spider-Man",
             "The Last Samurai",
             "The Clash of the Titans",
             "Remember the Titans"
@@ -452,11 +452,59 @@ var questions = [
         ]
     },
     {
-         " He says, \"Welcome to the frickin' Guardians of the Galaxy.\" Only he didn't use \"frickin'.\" ": [
+         "He says, \"Welcome to the frickin' Guardians of the Galaxy.\" Only he didn't use \"frickin'.\" ": [
             "Guardians of the Galaxy Vol 2",
             "Galaxy Quest",
             "Guardians of the Galaxy",
             "Pacific Rim: Uprising"
+        ]
+    },
+    {
+         "I'm Mary Poppins, y'all!": [
+            "Guardians of the Galaxy Vol 2",
+            "Mary Poppins",
+            "The Sound of Music",
+            "There's Something About Mary"
+        ]
+    },
+    {
+         "Today, at the edge of our hope, at the end of our time, we've chosen to believe in each other. Today, we face the monsters behind our door! Today, we are cancelling the Apocalypse!": [
+            "Pacific Rim",
+            "X-Men Apocalypse",
+            "Apocalypse Now",
+            "Independence Day"
+        ]
+    },
+    {
+         "Danger. The emergency destruct system is now activated. The ship will detonate in T minus ten minutes.": [
+            "Alien",
+            "Star Trek",
+            "Aliens",
+            "Alien vs. Predator"
+        ]
+    },
+    {
+         "Wakanda Forever": [
+            "Black Panther",
+            "Ghostbusters",
+            "Coming to America",
+            "Braveheart"
+        ]
+    },
+    {
+         "I swear to God I'll pistol whip the next guy who says \"Shenanigans.\"": [
+            "Super Troopers",
+            "The Departed",
+            "Deadpool",
+            "Super Troopers 2"
+        ]
+    },
+    {
+         "Mutation: it is the key to our evolution. It has enabled us to evolve from a single-celled organism into the dominant species on the planet. This process is slow, and normally taking thousands and thousands of years. But every few hundred millennia, evolution leaps forward.": [
+            "X-Men",
+            "Spider-Man",
+            "X-men United",
+            "Blade"
         ]
     }
 ];
