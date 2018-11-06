@@ -514,7 +514,15 @@ var questions = [
             "Jaws II",
             "Titanic"
         ]
-    }
+    },
+    {
+        "You should've gone for the head!": [
+           "Avengers: Infinity War",
+           "Avengers: Age of Ultron",
+           "A Nightmare on Elm Street",
+           "Halloween"
+       ]
+   }
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
